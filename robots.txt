@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lee-fuhr.github.io/heating-pad-picks/sitemap.xml
